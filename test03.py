@@ -1,3 +1,11 @@
+# -*- coding:utf-8 -*-
+# coding=utf-8
+'''
+@Author: fat_joe
+@Date: 2024/11/26 11:01
+@Desc: 用于理解列表、字典、元祖 嵌套
+        还有另外一个test03.py文件可以帮助理解
+'''
 tuple1 = ('a','b','c','d')
 tuple2 = ('e','f','g','h')
 tuple3 = ('i','j','k','l')
